@@ -2,7 +2,7 @@ This repository contains some common data structures and algorithms for go or th
 
 # Usage:
 ```
-import https://github.com/danierlr/go-dsa
+import github.com/danierlr/go-dsa
 ```
 
 Data structures:
