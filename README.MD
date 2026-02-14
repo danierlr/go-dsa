@@ -1,3 +1,9 @@
-This repository contains some common data structures and algorithms for go or their wrappers from standart library in a more convenient way.
+This repository contains some common data structures and algorithms for go or their wrappers from standard library in a more convenient way.
 
+# Usage:
+```
+import https://github.com/danierlr/go-dsa
+```
+
+Data structures:
  - Heap
